@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+    background-color: #222;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    background-color: whitesmoke;
+    height: auto;
+    min-height: 30rem;
+    width: 70rem;
+
+}
+.first h1{
+   text-align: center;
+   color: red;
+   padding: 20px;
+   font-size: 3rem;
+}
+.second{
+   display: flex;
+   justify-content: center;
+   gap: 1rem;
+
+
+}
+.second input{
+    padding: 10px;
+    width: 15rem;
+    border: none;
+    border-radius: 10px;
+}
+.second button{
+    padding: 10px;
+    background-color: green;
+    color: white;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 4rem;
+    margin-left: 3rem;
+    
+}
+.third{
+    background-color: lightblue;
+    
+    min-height: 3rem;
+    width: 15rem;
+    position: relative;
+
+    
+}
+.third p{
+     margin-top: 14px;
+}
+.fourth{
+    
+    background-color: lightblue;
+    height: auto;
+    min-height: 4rem;
+    width: 15rem;
+
+}
+.fifth{
+    background-color: white;
+    text-align: center;
+    margin-top: 8rem;
+}
+.third h2{
+  padding: 20px;
+  font-size : 2rem;
+  margin-left: 0.4rem;
+  
+
+}
+.third p{
+    position: absolute;
+    left: 50px;
+    bottom: 80px;
+
+}
+.fourth h2{
+    font-size: 1.2rem;
+    padding: 10px;
+
+}
+.fourth img{
+    width: 5rem;
+    margin-left: 4.5rem;
+    background-color: black;
+    border-radius: 50%;
+}
+.fourth p{
+    margin-left: 0.5rem;
+    
+}
