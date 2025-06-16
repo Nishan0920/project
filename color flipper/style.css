@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    position: relative;
+    height: auto;
+    min-height: 300px;
+    width: 400px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 34px;
+}
+.he1{
+     font-size: 45px;
+     
+
+}
+.he2{
+    color:orangered;
+    
+}
+#btn{
+    padding: 10px 20px;
+    color: brown;
+    border-radius: 3px;
+    margin-top: 9px;
+}
+#btn:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+
