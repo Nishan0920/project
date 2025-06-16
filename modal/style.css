@@ -1,0 +1,35 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  
+}
+.container{
+  height: 40.5rem;
+    width: 50rem;
+    background-color: #2222;
+    margin: auto;
+    margin-top: 2.5rem;
+}
+.first{
+
+}    
+#bc{
+    position: absolute;
+    bottom: 2rem;
+    text-align: center;
+    background-color: green;
+    width: 50rem;
+    min-height: 10rem;
+    overflow-y: hidden;
+    display: none;
+
+
+
+}    
+#bc{
+    display: block;
+   
+}
+

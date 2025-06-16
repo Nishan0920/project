@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simplified Toggle Sidebar</title>
+    <link rel="stylesheet" href="style.css">
+   
+</head>
+<body>
+    <div id="mySidebar" class="sidebar">
+        <a href="#" class="closebtn" onclick="toggleNav()"></a>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Contact</a>
+    </div>
+    <div id="main">
+        <button class="togglebtn" onclick="toggleNav()">☰</button>
+        
+       
+    <script>
+        function toggleNav() {
+            document.getElementById("mySidebar").classList.toggle("open");
+        }
+    </script>
+</body>
+</html>

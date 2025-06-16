@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+    width: 35rem;
+    
+}
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 10rem;
+    height: auto;
+    min-height: 30rem;
+
+}
+.first h1{
+    text-align: center;
+    padding: 20px;
+
+}
+.second{
+    display: flex;
+    flex-direction: column;
+    padding: 20px 10px;
+    gap: 50px;
+}
+.second input{
+    padding: 10px;
+    width: 20rem;
+    border-radius: 20px;
+}
+.second p{
+    font-size: 20px;
+}
+.second button{
+    width: 6rem;
+    margin-left: 13rem;
+    height: 2rem;
+    
+    
+    
+}
+.second p{
+    text-align: center;
+}
+.second h3{
+    
+    padding: 10px;
+   
+    margin-left: 13rem;
+
+}

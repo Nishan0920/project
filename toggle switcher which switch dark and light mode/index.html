@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>toggle dark/light mode</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 class="he1">This is toggle of light/dark</h1>
+    <input type="checkbox" id="checkbox" class="toggle">
+   <label for="checkbox"></label> 
+   <script>
+    const toggle = document.getElementById('checkbox');
+    const body = document.body;
+
+    toggle.addEventListener('change', () => {
+     if (toggle.checked) {
+      body.style.backgroundColor = '#1e1e1e'; // Dark background
+      body.style.color = '#ffffff';           // Light text
+    } else {
+    body.style.backgroundColor = '#ffffff'; // Light background
+    body.style.color = '#000000';           // Dark text
+  }
+});
+
+   </script>       
+        
+ 
+    
+</body>
+</html>
