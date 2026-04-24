@@ -1,0 +1,207 @@
+[
+  {
+    "category": "biryani/rice",
+    "name": "Chicken Biryani",
+    "img": "/biryani1.png",
+    "description": "Aromatic basmati rice cooked with tender chicken, spices, and herbs.",
+    "options": [
+      { "size": "half", "price": 120 },
+      { "size": "full", "price": 220 }
+    ]
+  },
+  {
+    "category": "biryani/rice",
+    "name": "Mutton Biryani",
+    "img": "/biryani2.png",
+    "description": "Rich and flavorful biryani made with juicy mutton and spices.",
+    "options": [
+      { "size": "half", "price": 160 },
+      { "size": "full", "price": 300 }
+    ]
+  },
+  {
+    "category": "biryani/rice",
+    "name": "Veg Biryani",
+    "img": "/biryani3.png",
+    "description": "Mixed vegetables cooked with aromatic basmati rice and spices.",
+    "options": [
+      { "size": "half", "price": 100 },
+      { "size": "full", "price": 180 }
+    ]
+  },
+  {
+    "category": "biryani/rice",
+    "name": "Fried Rice",
+    "img": "/biryani4.png",
+    "description": "Stir-fried rice with vegetables and light seasoning.",
+    "options": [
+      { "size": "half", "price": 90 },
+      { "size": "full", "price": 160 }
+    ]
+  },
+  {
+    "category": "biryani/rice",
+    "name": "Jeera Rice",
+    "img": "/rice.png",
+    "description": "Simple rice flavored with cumin seeds.",
+    "options": [
+      { "size": "half", "price": 70 },
+      { "size": "full", "price": 130 }
+    ]
+  },
+
+  {
+    "category": "starter",
+    "name": "Chicken Tikka",
+    "img": "/tikka1.png",
+    "description": "Grilled chicken marinated in spices and yogurt.",
+    "options": [
+      { "size": "half", "price": 140 },
+      { "size": "full", "price": 260 }
+    ]
+  },
+  {
+    "category": "starter",
+    "name": "Paneer Tikka",
+    "img": "/tikka2.png",
+    "description": "Grilled paneer cubes with smoky spices.",
+    "options": [
+      { "size": "half", "price": 120 },
+      { "size": "full", "price": 220 }
+    ]
+  },
+  {
+    "category": "starter",
+    "name": "Spring Rolls",
+    "img": "/rolls.png",
+    "description": "Crispy rolls stuffed with veggies.",
+    "options": [
+      { "size": "half", "price": 80 },
+      { "size": "full", "price": 150 }
+    ]
+  },
+  {
+    "category": "starter",
+    "name": "Chicken Wings",
+    "img": "/wings.png",
+    "description": "Spicy and crispy chicken wings.",
+    "options": [
+      { "size": "regular", "price": 150 },
+      { "size": "medium", "price": 220 },
+      { "size": "large", "price": 300 }
+    ]
+  },
+  {
+    "category": "starter",
+    "name": "Chilli Chicken",
+    "img": "/chilly.png",
+    "description": "Spicy Indo-Chinese chicken dish.",
+    "options": [
+      { "size": "half", "price": 140 },
+      { "size": "full", "price": 260 }
+    ]
+  },
+  {
+    "category": "starter",
+    "name": "French Fries",
+    "img": "/fries.png",
+    "description": "Crispy salted potato fries.",
+    "options": [
+      { "size": "regular", "price": 80 },
+      { "size": "large", "price": 130 }
+    ]
+  },
+  {
+    "category": "starter",
+    "name": "Veg Manchurian",
+    "img": "/manchurian.png",
+    "description": "Vegetable balls in spicy sauce.",
+    "options": [
+      { "size": "half", "price": 110 },
+      { "size": "full", "price": 200 }
+    ]
+  },
+
+  {
+    "category": "pizza",
+    "name": "Margherita Pizza",
+    "img": "/pizza1.png",
+    "description": "Classic cheese and tomato pizza.",
+    "options": [
+      { "size": "regular", "price": 120 },
+      { "size": "medium", "price": 180 },
+      { "size": "large", "price": 250 }
+    ]
+  },
+  {
+    "category": "pizza",
+    "name": "Pepperoni Pizza",
+    "img": "/pizza2.png",
+    "description": "Cheese pizza topped with pepperoni.",
+    "options": [
+      { "size": "medium", "price": 220 },
+      { "size": "large", "price": 320 }
+    ]
+  },
+  {
+    "category": "pizza",
+    "name": "BBQ Chicken Pizza",
+    "img": "/pizza3.png",
+    "description": "Smoky BBQ chicken with cheese.",
+    "options": [
+      { "size": "medium", "price": 240 },
+      { "size": "large", "price": 340 }
+    ]
+  },
+  {
+    "category": "pizza",
+    "name": "Farmhouse Pizza",
+    "img": "/pizza4.png",
+    "description": "Loaded with fresh vegetables.",
+    "options": [
+      { "size": "regular", "price": 150 },
+      { "size": "medium", "price": 220 },
+      { "size": "large", "price": 300 }
+    ]
+  },
+  {
+    "category": "pizza",
+    "name": "Veggie Pizza",
+    "img": "/pizza5.png",
+    "description": "Classic veggie-loaded pizza.",
+    "options": [
+      { "size": "regular", "price": 130 },
+      { "size": "large", "price": 260 }
+    ]
+  },
+  {
+    "category": "pizza",
+    "name": "Cheese Burst Pizza",
+    "img": "/pizza6.png",
+    "description": "Extra cheesy pizza with stuffed crust.",
+    "options": [
+      { "size": "medium", "price": 250 },
+      { "size": "large", "price": 350 }
+    ]
+  },
+  {
+    "category": "pizza",
+    "name": "Paneer Pizza",
+    "img": "/pizza7.png",
+    "description": "Paneer topped spicy pizza.",
+    "options": [
+      { "size": "regular", "price": 160 },
+      { "size": "medium", "price": 230 }
+    ]
+  },
+  {
+    "category": "pizza",
+    "name": "Mexican Green Wave Pizza",
+    "img": "/pizza8.png",
+    "description": "Spicy Mexican-style veggie pizza.",
+    "options": [
+      { "size": "medium", "price": 240 },
+      { "size": "large", "price": 330 }
+    ]
+  }
+]
